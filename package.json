@@ -1,6 +1,6 @@
 {
   "name": "main-root",
-  "version": "0.9.0-rc",
+  "version": "1.0.0",
   "description": "Get the root path of the app you are installed in",
   "main": "index.js",
   "repository": "https://github.com/warrenfalk/main-root",
