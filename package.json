@@ -1,6 +1,6 @@
 {
   "name": "main-root",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get the root path of the app you are installed in",
   "main": "index.js",
   "types": "index.d.ts",
