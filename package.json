@@ -1,8 +1,9 @@
 {
   "name": "main-root",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Get the root path of the app you are installed in",
   "main": "index.js",
+  "types": "index.d.ts",
   "repository": "https://github.com/warrenfalk/main-root",
   "author": "Warren Falk",
   "license": "MIT",
